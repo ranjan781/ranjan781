@@ -19,11 +19,11 @@
 </p>
 
 ### 🚀 About Me  
-- 💻 Passionate **Web Developer**  
-- 🎨 Experienced **UI/UX Designer** (Figma, Posters, Ads, Social Media)  
+- 💻 Passionate **Web Developer/learning ML/DL**  
+- 🎨 Experienced **problem solving** (Codechef,hackerrank,leetcode etc)  
 - 📱 Currently learning **React Native** for App Development  
 - 🏆 Participate in hackathons & love building creative projects  
-- 📬 Reach me at **rishabh09454@gmail.com** 
+- 📬 Reach me at **yranjan781@gmail.com** 
 
 ## 🧰 Languages & Frameworks
 **Languages**
@@ -66,7 +66,7 @@
 ---
 ## 🔭 Featured Projects
 
-- **Corporate Cab Admin Dashboard** — Admin UI, live tracking, scheduling & reporting.  
+- **Expense Tracker with Visualisation** — Admin UI, live tracking, scheduling & reporting.  
 - **hackLLM** -- Large Language Model  
 - **EduLearn- Education learning platform** — AI chatbot + frontend + backened
 - **Responsive Landing Templates** — Clean, fast portfolio landing pages & Figma files.
@@ -89,9 +89,9 @@
 
 ## ✉️ Contact
 
-- Email: **rishabh09454@gmail.com**  
+- Email: **yranjan781@gmail.com**  
 - Location: India  
-- LinkedIn: https://www.linkedin.com/in/rishabh-gupta-440087326/
+- LinkedIn: [https://www.linkedin.com/in//](https://www.linkedin.com/in/ranjan-yadav-151aa9329/)
 
 ---
 
@@ -119,3 +119,4 @@
 
 ### ✨ Fun Fact  
 💡 *I believe in building things that solve real problems — not just code for the sake of it!*
+🚀 Building ideas into reality.
