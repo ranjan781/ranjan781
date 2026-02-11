@@ -1,19 +1,19 @@
 ## Hi there 👋
 <!-- =========================================
-  Professional Dark GitHub README for Rishabh
-  Save as README.md in repo: Rishabh0702-web
+  Professional Dark GitHub README for Ranjan
+  Save as README.md in repo: Ranjan781-web
 ========================================= -->
 
 <!-- Banner (add assets/banner.gif or use a static PNG) -->
 <p align="center">
-  <img src="./assets/banner.gif" alt="Rishabh — Web Developer" style="width:100%; max-height:240px; object-fit:cover; border-radius:12px;" />
+  <img src="./assets/banner.gif" alt="Ranjan-coding enthusiast" style="width:100%; max-height:240px; object-fit:cover; border-radius:12px;" />
 </p>
 
-<h1 align="center" style="margin-top:18px">Hi 👋, I'm <strong>Rishabh</strong></h1>
-<p align="center"><strong>Web Developer</strong> · <strong>UI/UX Designer</strong> · <strong>React Native Learner</strong></p>
+<h1 align="center" style="margin-top:18px">Hi 👋, I'm <strong>Ranjan</strong></h1>
+<p align="center"><strong>Web Developer</strong> · <strong>Problem Solver</strong> · <strong>React Native Learner</strong></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh0702-web&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ranjan781-web&color=blue" alt="profile views" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-%2300b894" alt="open to work" />
 </p>
