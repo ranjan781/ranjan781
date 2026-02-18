@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center" style="margin-top:18px">Hi 👋, I'm <strong>Ranjan</strong></h1>
-<p align="center"><strong>Web Developer</strong> · <strong>Problem Solver</strong> · <strong>React Native Learner</strong></p>
+<p align="center"><strong>Web Developer</strong> · <strong>Problem Solver</strong> · <strong>ML Learner & tech Enthusiast</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ranjan781-web&color=blue" alt="profile views" />
@@ -21,7 +21,7 @@
 ### 🚀 About Me  
 - 💻 Passionate **Web Developer/learning ML/DL**  
 - 🎨 Experienced **problem solving** (Codechef,hackerrank,leetcode etc)  
-- 📱 Currently learning **React Native** for App Development  
+- 📱 Currently learning **Machine learning** for App Development  
 - 🏆 Participate in hackathons & love building creative projects  
 - 📬 Reach me at **yranjan781@gmail.com** 
 
@@ -39,7 +39,6 @@
 <p>
   <img title="Next.js" alt="Next" src="https://skillicons.dev/icons?i=nextjs" width="36" />
   <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" width="36" />
-  <img title="Flutter" alt="Flutter" src="https://skillicons.dev/icons?i=flutter" width="36" />
   <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" width="36" />
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" width="36" />
 </p>
@@ -78,11 +77,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-gupta-440087326/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ranjan-yadav-151aa9329/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   &nbsp;
   <a href="https://www.instagram.com/rishabh.gupta5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>
   &nbsp;
- <a href="https://github.com/Rishabh0702-web"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
+ <a href="https://github.com/ranjan781"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 ---
@@ -120,3 +119,4 @@
 ### ✨ Fun Fact  
 💡 *I believe in building things that solve real problems — not just code for the sake of it!*
 🚀 Building ideas into reality.
+“Technology rewards those who never stop learning.”
