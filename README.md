@@ -119,7 +119,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ranjan781/ranjan781/main/github-metrics.svg"
-       width="95%"
+       width="90%"
        alt="GitHub Metrics" />
 </p>
 
