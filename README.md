@@ -130,32 +130,31 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
 
+<a href="https://github.com/ranjan781/hireai">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=hireai&theme=tokyonight&hide_border=true"/>
+</a>
+
 <a href="https://github.com/ranjan781/-AI-Powered-SmartStudy-Assistant.">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=-AI-Powered-SmartStudy-Assistant.&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=-AI-Powered-SmartStudy-Assistant.&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/ranjan781/smart-expense-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=smart-expense-tracker&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=smart-expense-tracker&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/ranjan781/expense-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=expense-tracker&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=expense-tracker&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/ranjan781/my-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=my-portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ranjan781/hireai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=hireai&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=my-portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
-
 ---
 
 <!--
