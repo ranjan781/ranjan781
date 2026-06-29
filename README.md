@@ -134,24 +134,24 @@
 
 <p align="center">
 
-<a href="https://github.com/ranjan781/AI-Powered-SmartStudy-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=https://github.com/ranjan781/-AI-Powered-SmartStudy-Assistant.&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ranjan781/-AI-Powered-SmartStudy-Assistant.">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=-AI-Powered-SmartStudy-Assistant.&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ranjan781/Expense-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=Expense-Tracker&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ranjan781/smart-expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=smart-expense-tracker&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ranjan781/hackLLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=hackLLM&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ranjan781/expense-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=expense-tracker&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ranjan781/EduLearn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=EduLearn&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ranjan781/my-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=my-portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/ranjan781/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=Portfolio&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ranjan781/hireai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=hireai&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
