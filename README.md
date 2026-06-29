@@ -134,7 +134,7 @@
 
 | Project | Description |
 |----------|-------------|
-| 🏥 Hospital Management System | Built using .NET Core MVC |
+| 🏥 -AI-Powered-SmartStudy-Assistant.| Built using Bert/NLP |
 | 💰 Expense Tracker | Expense tracking with charts and reports |
 | 🤖 hackLLM | Large Language Model Project |
 | 📚 EduLearn | AI Powered Learning Platform |
