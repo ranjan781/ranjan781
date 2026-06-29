@@ -52,7 +52,7 @@
 
 
 <p align="center">
-  <img src="![ranjan781's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjan781&theme=vue-dark&hide_border=true)" alt="streak" />
+  <img src="![ranjan781's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjan781&theme=vue-dark&hide_border=true)"/>
 </p>
 
 ---
