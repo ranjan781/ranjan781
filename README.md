@@ -1,122 +1,180 @@
-## Hi there 👋
-<!-- =========================================
-  Professional Dark GitHub README for Ranjan
-  Save as README.md in repo: Ranjan781-web
-========================================= -->
+<!-- ==========================================================
+              Premium GitHub Profile README
+                     Ranjan Yadav
+=========================================================== -->
 
-<!-- Banner (add assets/banner.gif or use a static PNG) -->
-<p align="center">
-  <img src="./assets/banner.gif" alt="Ranjan-coding enthusiast" style="width:100%; max-height:240px; object-fit:cover; border-radius:12px;" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ranjan+Yadav;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Problem+Solver;Hackathon+Builder;Always+Learning+New+Things" alt="Typing SVG"/>
+</h1>
 
-<h1 align="center" style="margin-top:18px">Hi 👋, I'm <strong>Ranjan</strong></h1>
-<p align="center"><strong>Web Developer</strong> · <strong>Problem Solver</strong> · <strong>ML Learner & tech Enthusiast</strong></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ranjan781-web&color=blue" alt="profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-%2300b894" alt="open to work" />
-</p>
-
-### 🚀 About Me  
-- 💻 Passionate **Web Developer/learning ML/DL**  
-- 🎨 Experienced **problem solving** (Codechef,hackerrank,leetcode etc)  
-- 📱 Currently learning **Machine learning** for App Development  
-- 🏆 Participate in hackathons & love building creative projects  
-- 📬 Reach me at **yranjan781@gmail.com** 
-
-## 🧰 Languages & Frameworks
-**Languages**
-<p>
-  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" width="36" />
-  <img title="TypeScript" alt="TS" src="https://skillicons.dev/icons?i=ts" width="36" />
-  <img title="C" alt="C" src="https://skillicons.dev/icons?i=c" width="36" />
-  <img title="C++" alt="C++" src="https://skillicons.dev/icons?i=cpp" width="36" />
-  <img title="JavaScript" alt="JS" src="https://skillicons.dev/icons?i=js" width="36" />
-</p>
-
-**Frontend & Mobile**
-<p>
-  <img title="Next.js" alt="Next" src="https://skillicons.dev/icons?i=nextjs" width="36" />
-  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" width="36" />
-  <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" width="36" />
-  <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" width="36" />
-</p>
-
-**Backend & Databases**
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb," alt="Backend" />
-</div>
-
-## 📈 GitHub Stats  
-
+<h3 align="center">
+💻 Full Stack Web Developer | 🤖 Machine Learning Learner | 🚀 DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="![ranjan781's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjan781&theme=vue-dark&hide_border=true)"/>
+  <img src="https://komarev.com/ghpvc/?username=ranjan781&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/ranjan781?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/ranjan781?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh0702-web&theme=tokyonight&row=1&column=6" />
-</p>
+# 🚀 About Me
 
----
-## 🔭 Featured Projects
-
-- **Expense Tracker with Visualisation** — Admin UI, live tracking, scheduling & reporting.  
-- **hackLLM** -- Large Language Model  
-- **EduLearn- Education learning platform** — AI chatbot + frontend + backened
-- **Responsive Landing Templates** — Clean, fast portfolio landing pages & Figma files.
-
-(Each project has a short case-study section inside its repo — problem → approach → outcome.)
+- 💻 Passionate **Web Developer & Data Analyst**
+- 🌱 Currently learning **Machine Learning & Deep Learning**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🏆 Active on **LeetCode**, **CodeChef**, and **HackerRank**
+- 🚀 Love building real-world projects and participating in Hackathons
+- 🎯 Goal: Become an **AI Software Engineer || Data Analyst**
+- 📫 Reach me at **yranjan781@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Coding Mode
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ranjan-yadav-151aa9329/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/rishabh.gupta5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>
-  &nbsp;
- <a href="https://github.com/ranjan781"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 </p>
 
 ---
 
-## ✉️ Contact
+# 🛠 Tech Stack
 
-- Email: **yranjan781@gmail.com**  
-- Location: India  
-- LinkedIn: [https://www.linkedin.com/in//](https://www.linkedin.com/in/ranjan-yadav-151aa9329/)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,dotnet"/>
+
+</p>
 
 ---
 
-<!-- End of README -->
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranjan781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjan781&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjan781&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 🐍 Contribution Snake
+# 📈 Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh0702-web/Rishabh0702-web/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh0702-web/Rishabh0702-web/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishabh0702-web/Rishabh0702-web/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjan781&theme=tokyo-night"/>
+
+</a>
+
 </p>
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <i>Turning my daily commits into a snake — one square at a time 🐍</i>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ranjan781&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
 </p>
 
+---
 
+# 💻 LeetCode Statistics
 
+<p align="center">
 
+<img src="https://leetcard.jacoblin.cool/ranjan781?theme=dark&font=Nunito&ext=heatmap"/>
 
-### ✨ Fun Fact  
-💡 *I believe in building things that solve real problems — not just code for the sake of it!*
-🚀 Building ideas into reality.
-“Technology rewards those who never stop learning.”
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏥 Hospital Management System | Built using .NET Core MVC |
+| 💰 Expense Tracker | Expense tracking with charts and reports |
+| 🤖 hackLLM | Large Language Model Project |
+| 📚 EduLearn | AI Powered Learning Platform |
+| 🌐 Portfolio Website | Responsive developer portfolio |
+
+---
+
+<!--
+# 🎵 Spotify
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</p>
+-->
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ranjan781">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ranjan-yadav-151aa9329/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yranjan781@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ranjan781/ranjan781/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> **"Technology rewards those who never stop learning."**
+
+> **I believe in building products that solve real-world problems—not just writing code.**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Let's build something amazing together.
+
+</p>
