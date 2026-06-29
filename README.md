@@ -130,7 +130,9 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+> **⚠️ Note:** These projects are currently under active development. Deployment is in progress. Click on any project to explore the source code and implementation.
 
 <p align="center">
 
@@ -155,6 +157,19 @@
 </a>
 
 </p>
+
+### 📌 Project Status
+
+| Project | Status |
+|----------|--------|
+| 🤖 HireAI | 🚧 In Development |
+| 🧠 AI-Powered SmartStudy Assistant | 🚧 In Development |
+| 💰 Smart Expense Tracker | 🚧 In Development |
+| 📊 Expense Tracker | 🚧 In Development |
+| 🌐 Portfolio Website | 🚧 Continuously Improving |
+
+> **Deployment:** Coming Soon 🚀
+
 ---
 
 <!--
