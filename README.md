@@ -4,7 +4,7 @@
 =========================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ranjan+Yadav;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Problem+Solver;Hackathon+Builder;Always+Learning+New+Things" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ranjan+Yadav;Full+Stack+Web+Developer;Machine+Learning+Enthusiast;AI+Explorer;Open+Source+Contributor;LeetCode+Problem+Solver;Hackathon+Builder;Always+Learning+Something+New"/>
 </h1>
 
 <h3 align="center">
@@ -67,6 +67,35 @@
 
 ---
 
+---
+
+## 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjan781&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranjan781&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranjan781&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ranjan781&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjan781&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -88,6 +117,19 @@
 <img src="./github-metrics.svg" />
 
 </p>
+
+---
+
+---
+
+## 📊 Developer Metrics
+
+<p align="center">
+
+<img src="./github-metrics.svg" width="95%"/>
+
+</p>
+
 
 ---
 
@@ -170,6 +212,8 @@
 > **I believe in building products that solve real-world problems—not just writing code.**
 
 ---
+
+![](https://komarev.com/ghpvc/?username=ranjan781&style=for-the-badge&color=blue)
 
 <p align="center">
 
