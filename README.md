@@ -34,10 +34,7 @@
 
 ---
 
-# 💻 Coding Mode
-
-<p align="center">
-## 🚀 What I'm Working On
+ 🚀 What I'm Working On
 
 - 💻 Building scalable **Full Stack Web Applications**
 - 🤖 Exploring **Machine Learning** and **Deep Learning**
@@ -46,10 +43,6 @@
 - 🌱 Contributing to **Open Source** and improving my GitHub profile
 - 🎯 Preparing for **Software Engineering** and **Data Analyst** roles
 
----
-</p>
-
----
 
 # 🛠 Tech Stack
 
