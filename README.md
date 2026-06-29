@@ -34,7 +34,7 @@
 # 💻 Coding Mode
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="650">
 </p>
 
 ---
