@@ -135,7 +135,7 @@
 <p align="center">
 
 <a href="https://github.com/ranjan781/AI-Powered-SmartStudy-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=AI-Powered-SmartStudy-Assistant&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=https://github.com/ranjan781/-AI-Powered-SmartStudy-Assistant.&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/ranjan781/Expense-Tracker">
