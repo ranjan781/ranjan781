@@ -37,7 +37,16 @@
 # 💻 Coding Mode
 
 <p align="center">
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="650">
+## 🚀 What I'm Working On
+
+- 💻 Building scalable **Full Stack Web Applications**
+- 🤖 Exploring **Machine Learning** and **Deep Learning**
+- 📊 Strengthening my **Data Analytics** skills
+- 🧩 Solving **LeetCode** problems consistently
+- 🌱 Contributing to **Open Source** and improving my GitHub profile
+- 🎯 Preparing for **Software Engineering** and **Data Analyst** roles
+
+---
 </p>
 
 ---
