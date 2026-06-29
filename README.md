@@ -132,13 +132,29 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🏥 -AI-Powered-SmartStudy-Assistant.| Built using Bert/NLP |
-| 💰 Expense Tracker | Expense tracking with charts and reports |
-| 🤖 hackLLM | Large Language Model Project |
-| 📚 EduLearn | AI Powered Learning Platform |
-| 🌐 Portfolio Website | Responsive developer portfolio |
+<p align="center">
+
+<a href="https://github.com/ranjan781/AI-Powered-SmartStudy-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=AI-Powered-SmartStudy-Assistant&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ranjan781/Expense-Tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=Expense-Tracker&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ranjan781/hackLLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=hackLLM&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ranjan781/EduLearn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=EduLearn&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/ranjan781/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=Portfolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
