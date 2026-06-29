@@ -81,11 +81,11 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Metrics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranjan781&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="./github-metrics.svg" />
 
 </p>
 
