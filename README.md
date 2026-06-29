@@ -118,9 +118,9 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/ranjan781/ranjan781/main/github-metrics.svg"/>
-
+  <img src="https://raw.githubusercontent.com/ranjan781/ranjan781/main/github-metrics.svg"
+       width="95%"
+       alt="GitHub Metrics" />
 </p>
 
 ---
