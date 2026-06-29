@@ -34,7 +34,7 @@
 # 💻 Coding Mode
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650">
 </p>
 
 ---
@@ -120,19 +120,6 @@
 
 ---
 
----
-
-## 📊 Developer Metrics
-
-<p align="center">
-
-<img src="./github-metrics.svg" width="95%"/>
-
-</p>
-
-
----
-
 # 💻 LeetCode Statistics
 
 <p align="center">
@@ -212,8 +199,6 @@
 > **I believe in building products that solve real-world problems—not just writing code.**
 
 ---
-
-![](https://komarev.com/ghpvc/?username=ranjan781&style=for-the-badge&color=blue)
 
 <p align="center">
 
