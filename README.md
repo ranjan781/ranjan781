@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranjan781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=ranjan781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> -->
 
  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjan781&theme=tokyonight&hide_border=true"/> 
 
@@ -139,7 +139,7 @@
 
 > **⚠️ Note:** These projects are currently under active development. Deployment is in progress. Click on any project to explore the source code and implementation.
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="https://github.com/ranjan781/hireai">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=hireai&theme=tokyonight&hide_border=true"/>
@@ -161,7 +161,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan781&repo=my-portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
-</p>
+</p> -->
 
 ### 📌 Project Status
 
