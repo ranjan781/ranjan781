@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranjan781&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ranjan781&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/ranjan781?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/ranjan781?style=for-the-badge&logo=github" />
 </p>
