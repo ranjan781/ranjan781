@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-💻 Full Stack Web Developer | 🤖 Machine Learning Learner | 🚀 DSA Enthusiast
+💻 Full Stack Web Developer |  Machine Learning Learner |  DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,postgresql,pytorch"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,excel,powerbi,tabluea,nodejs,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,postgresql,pytorch"/>
 
 </p>
 
