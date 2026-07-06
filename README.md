@@ -48,7 +48,12 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,excel,powerbi,tableau,nodejs,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,postgresql,pytorch"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,postgresql,pytorch"/>
+<br><br>
+
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </p>
 
