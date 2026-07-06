@@ -49,10 +49,9 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,postgresql,pytorch"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="48"/>
 </p>
 
 ---
