@@ -49,8 +49,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,mongodb,mysql,python,cpp,c,git,github,vscode,linux,firebase,figma,postgresql,pytorch"/>
   
-  <img src="https://img.icons8.com/color/48/langchain.png" width="48"/>
-  <img src="https://img.icons8.com/color/48/hugging face.png" width="48"/>
+ 
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="48"/>
