@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-💻 Full Stack Web Developer |  Machine Learning Learner |  DSA Enthusiast
+💻 Full Stack Web Developer |  Machine Learning And Deep learning Learner |  DSA Enthusiast |  GenAi Learner
 </h3>
 
 <p align="center">
