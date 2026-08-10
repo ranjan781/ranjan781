@@ -25,7 +25,7 @@
 
 - 💻 Passionate **Web Developer & Data Analyst**
 - 🌱 Currently learning **Machine Learning & Deep Learning**
-- 📚 Practicing **Data Structures & Algorithms**
+- 📚 Practicing **Data Structures & Algorithms and sql**
 - 🏆 Active on **LeetCode**, **CodeChef**, and **HackerRank**
 - 🚀 Love building real-world projects and participating in Hackathons
 - 🎯 Goal: Become an **AI Software Engineer || Data Analyst**
