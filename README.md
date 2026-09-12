@@ -28,7 +28,7 @@
 - 📚 Practicing **Data Structures & Algorithms and sql**
 - 🏆 Active on **LeetCode**, **CodeChef**, and **HackerRank**
 - 🚀 Love building real-world projects and participating in Hackathons
-- 🎯 Goal: Become an **AI Software Engineer || Data Analyst**
+- 🎯 Goal: Become an **AI Software Engineer**
 - 📫 Reach me at **yranjan781@gmail.com**
 
 ---
